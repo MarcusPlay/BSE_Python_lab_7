@@ -30,5 +30,5 @@ if __name__ == '__main__':
     for item in a[i_min+1:i_max]:
         if item > 0:
             count += 1
-            
+
     print(count)
